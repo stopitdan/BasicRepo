@@ -1,1 +1,4 @@
 HELLO CODING DOJO!
+
+
+These Are The Changes!!
